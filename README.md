@@ -10,7 +10,23 @@ Through the research, a minimum of 600 artefacts will be digitized and (re)catal
 
 ### People
 
-*Making African Connections* is a [School of Global Studies](http://www.sussex.ac.uk/global/) and [Sussex Humanities Lab](http://www.sussex.ac.uk/shl/) project led by [JoAnn McGregor](http://www.sussex.ac.uk/profiles/135339), Professor of Human Geography at the [University of Sussex](http://www.sussex.ac.uk/). Technical work is led by the Co-I, [James Baker](http://www.sussex.ac.uk/profiles/371022), Senior Lecturer in Digital History and Archives, [School of History, Art History and Philosophy](http://www.sussex.ac.uk/hahp/), [University of Sussex](http://www.sussex.ac.uk/). Nicola Stylianou is our Post-Doctoral Research Associate. Kelly Foster is our Wikimedian-in-Residence.
+*Making African Connections* is a [University of Sussex](http://www.sussex.ac.uk/) supported by the [School of Global Studies](http://www.sussex.ac.uk/global/) and the [Sussex Humanities Lab](http://www.sussex.ac.uk/shl/). The project team are:
+
+- *Principle Investigator* [JoAnn McGregor](http://www.sussex.ac.uk/profiles/135339), Professor of Human Geography
+- *Co-Investigator* [James Baker](http://www.sussex.ac.uk/profiles/371022), Senior Lecturer in Digital History and Archives
+- *Post-Doctoral Research Associate* [Nicola Stylianou](https://twitter.com/nsty78)
+- *Wikimedian-in-Residence* [Kelly Foster](https://kellyfoster.co.uk/)
+
+### Partners
+
+The project benefits from collaboration with a numbmer of project partners:
+
+- [Brighton Museum & Art Gallery](https://brightonmuseums.org.uk/brighton/)
+- [Royal Engineers Museum Library and Archive](https://www.re-museum.co.uk/collections/visiting-the-library-and-archive/)
+- [Powell-Cotton Museum](http://www.quexpark.co.uk/museum/)
+- [Botswana National Museum](https://en.wikipedia.org/wiki/Botswana_National_Museum)
+- [Museums Association of Namibia](https://www.museums.com.na/)
+- The El-Mahdiya Restoration NGO
 
 ### Funding
 
