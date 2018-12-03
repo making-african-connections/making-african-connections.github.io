@@ -1,4 +1,6 @@
-## Making African Connections: Decolonial Futures for Colonial Collections
+## Making African Connections
+
+### Decolonial Futures for Colonial Collections
 
 > What are the 'decolonial' possibilities for African collections in Sussex and Kent Museums, and how can these further debates over decolonizing British public institutions in both theory and practice?
 
