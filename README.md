@@ -14,7 +14,7 @@ This interdisciplinary project will research historic African collections held i
 
 Through the research, a minimum of 600 artefacts will be digitized and (re)catalogued. The project will engage spatially dispersed publics in Britain and Africa by co-curating four displays (three in Sussex and Kent Museums, and the fourth in Botswana based on objects loaned from Brighton). An innovative interactive digital archive will link objects to contextual information and different interpretations, while a Wikimedian-in-residence will enable interaction with global publics via the world's foremost media repository. Creating intersections between Wikimedians, Continental- and diapora-based African interest groups and global scholarly networks will maximize new opportunities for knowledge exchange and greater cultural, historical and political understanding. Through both scholarly publications and policy briefings, the project will further cutting edge debates over how to redress colonial legacies and enable museums to meet twenty-first century goals of accessibility, inclusivity and social justice. 
 
-### People
+### Team
 
 *Making African Connections* is supported by the [University of Sussex](http://www.sussex.ac.uk/), the [School of Global Studies](http://www.sussex.ac.uk/global/), the [Sussex Humanities Lab](http://www.sussex.ac.uk/shl/), and the [Sussex Africa Centre](http://www.sussex.ac.uk/africacentre/). The project team are:
 
