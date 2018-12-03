@@ -39,6 +39,6 @@ The project benefits from collaboration with a numbmer of project partners:
 
 This 2-year research project is funded by the [Arts and Humanities Research Council](https://ahrc.ukri.org/), UK. Project Reference [AH/S001271/1](https://gtr.ukri.org/projects?ref=AH%2FS001271%2F1). Funding value £454,711.
 
-### Open
+### License
 
 This website is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (exceptions: logos and marked images). Unless otherwise stated, project code is licensed under a [GNU General Public License v3.0](https://github.com/CuratorialVoice/code/blob/master/LICENSE).
