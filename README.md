@@ -34,7 +34,7 @@ UK partners and collaborators:
 - Ms Reem el-Helo (El Mahdiyya Restoration NGO)
 - [Mr Osman Nusairi](https://en.wikipedia.org/wiki/Osman_Nusairi) (Playwright and translator)
 - [Dr Fergus Nicoll](https://en.wikipedia.org/wiki/Fergus_Nicoll) (Journalist and author)
-- (Brighton and Hove Black History](http://www.black-history.org.uk/)
+- [Brighton and Hove Black History](http://www.black-history.org.uk/)
 - Mr Tshepo Skwambane ([Diverse Community Empowerment Services](http://www.dces.org.uk/))
 
 Southern Africa partners and collaborators:
