@@ -10,7 +10,7 @@ Through the research, a minimum of 600 artefacts will be digitized and (re)catal
 
 ### People
 
-*Making African Connections* [School of Global Studies](http://www.sussex.ac.uk/global/) and [Sussex Humanities Lab](http://www.sussex.ac.uk/shl/) project led by [JoAnn McGregor](http://www.sussex.ac.uk/profiles/135339), Professor of Human Geography at the [University of Sussex](http://www.sussex.ac.uk/). Technical work is led by the Co-I, [James Baker](http://www.sussex.ac.uk/profiles/371022), Senior Lecturer in Digital History and Archives, [School of History, Art History and Philosophy](http://www.sussex.ac.uk/hahp/), [University of Sussex](http://www.sussex.ac.uk/).
+*Making African Connections* is a [School of Global Studies](http://www.sussex.ac.uk/global/) and [Sussex Humanities Lab](http://www.sussex.ac.uk/shl/) project led by [JoAnn McGregor](http://www.sussex.ac.uk/profiles/135339), Professor of Human Geography at the [University of Sussex](http://www.sussex.ac.uk/). Technical work is led by the Co-I, [James Baker](http://www.sussex.ac.uk/profiles/371022), Senior Lecturer in Digital History and Archives, [School of History, Art History and Philosophy](http://www.sussex.ac.uk/hahp/), [University of Sussex](http://www.sussex.ac.uk/). Nicola Stylianou is our Post-Doctoral Research Associate. Kelly Foster is our Wikimedian-in-Residence.
 
 ### Funding
 
