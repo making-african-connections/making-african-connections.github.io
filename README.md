@@ -16,24 +16,32 @@ Through the research, a minimum of 600 artefacts will be digitized and (re)catal
 
 ### People
 
-*Making African Connections* is a [University of Sussex](http://www.sussex.ac.uk/) supported by the [School of Global Studies](http://www.sussex.ac.uk/global/) and the [Sussex Humanities Lab](http://www.sussex.ac.uk/shl/). The project team are:
+*Making African Connections* is supported by the [University of Sussex](http://www.sussex.ac.uk/), the [School of Global Studies](http://www.sussex.ac.uk/global/), the [Sussex Humanities Lab](http://www.sussex.ac.uk/shl/), and the [Sussex Africa Centre](http://www.sussex.ac.uk/africacentre/). The project team are:
 
-- **Principle Investigator** [JoAnn McGregor](http://www.sussex.ac.uk/profiles/135339), Professor of Human Geography
-- **Co-Investigator** [James Baker](http://www.sussex.ac.uk/profiles/371022), Senior Lecturer in Digital History and Archives
-- **Post-Doctoral Research Associate** [Nicola Stylianou](https://twitter.com/nsty78)
+- **Principle Investigator** [Prof JoAnn McGregor](http://www.sussex.ac.uk/profiles/135339), Professor of Human Geography and African Studies
+- **Co-Investigator** [Dr James Baker](http://www.sussex.ac.uk/profiles/371022), Senior Lecturer in Digital History and Archives
+- **Post-Doctoral Research Associate** [Dr Nicola Stylianou](https://twitter.com/nsty78)
 - **Wikimedian-in-Residence** [Kelly Foster](https://kellyfoster.co.uk/)
 - **Research Assistant in Digital Archiving** TBC
 
-### Partners
+### Partners and Collaborators
 
-The project benefits from collaboration with a numbmer of project partners:
+UK partners and collaborators:
 
 - [Brighton Museum & Art Gallery](https://brightonmuseums.org.uk/brighton/)
 - [Royal Engineers Museum Library and Archive](https://www.re-museum.co.uk/collections/visiting-the-library-and-archive/)
 - [Powell-Cotton Museum](http://www.quexpark.co.uk/museum/)
-- [Botswana National Museum](https://en.wikipedia.org/wiki/Botswana_National_Museum)
-- [Museums Association of Namibia](https://www.museums.com.na/)
-- The El-Mahdiya Restoration NGO
+- Ms Reem el-Helo (El Mahdiyya Restoration NGO)
+- [Mr Osman Nusairi](https://en.wikipedia.org/wiki/Osman_Nusairi) (Playwright and translator)
+- [Dr Fergus Nicoll](https://en.wikipedia.org/wiki/Fergus_Nicoll) (Journalist and author)
+- (Brighton and Hove Black History](http://www.black-history.org.uk/)
+- Mr Tshepo Skwambane ([Diverse Community Empowerment Services](http://www.dces.org.uk/))
+
+Southern Africa partners and collaborators:
+
+- Dr Winani Thebele, [Botswana National Museum](https://en.wikipedia.org/wiki/Botswana_National_Museum)
+- Mr Scobie Lekhutile, [Khama III Memorial Museum](http://discovery.nationalarchives.gov.uk/details/a/A13531615), Botswana
+- Dr [Napandulwe Shiweda](http://www.unam.edu.na/staff/napandulwe-shiweda), University of Namibia 
 
 ### Funding
 
