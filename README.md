@@ -1,3 +1,5 @@
+**June 2019: THIS HOLDING SITE HAS BEEN RETIRED AND REPLACED BY [The Making African Connections Digital Archive](http://makingafricanconnections.org/)**
+
 ## Making African Connections
 
 ### Decolonial Futures for Colonial Collections
